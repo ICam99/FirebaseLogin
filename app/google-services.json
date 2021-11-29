@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762358358472",
+    "project_id": "fir-login-e6ec6",
+    "storage_bucket": "fir-login-e6ec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762358358472:android:25b6f6fdfec323c7fa20fd",
+        "android_client_info": {
+          "package_name": "campos.ignacio.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762358358472-cgtgbidvjqh3fmtto77o762cb7tlrj73.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOK36Ldmxs387kSOSF1Ue0FNRmFskwjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762358358472-cgtgbidvjqh3fmtto77o762cb7tlrj73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
